@@ -1,0 +1,107 @@
+[
+  {
+    "module": "Core Protocol",
+    "submodules": [
+      {
+        "title": "Interoperability Engine",
+        "description": "Facilitates seamless asset transfers, messaging, and smart contract calls across multiple blockchains, ensuring a unified experience for developers and users.",
+        "selected": true
+      },
+      {
+        "title": "Multi-Signature Verification",
+        "description": "Enhances security by requiring multiple signatures for transactions, ensuring that only authorized parties can execute cross-chain operations.",
+        "selected": true
+      },
+      {
+        "title": "Optimistic Proof Mechanism",
+        "description": "Utilizes optimistic proofs to validate transactions, allowing for faster confirmations while maintaining a high level of security.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "AI Integration",
+    "submodules": [
+      {
+        "title": "Route Optimization",
+        "description": "AI agents analyze various bridging routes to recommend the most efficient paths for asset transfers, minimizing costs and time.",
+        "selected": true
+      },
+      {
+        "title": "Anomaly Detection",
+        "description": "Employs machine learning algorithms to monitor transactions for unusual patterns, alerting users to potential security threats or inefficiencies.",
+        "selected": true
+      },
+      {
+        "title": "dApp Orchestration Assistance",
+        "description": "Provides intelligent recommendations for managing cross-chain decentralized applications, streamlining interactions across different blockchain environments.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Developer Tools",
+    "submodules": [
+      {
+        "title": "Unified SDK",
+        "description": "Offers a comprehensive software development kit that simplifies the integration of cross-chain functionalities into decentralized applications, supporting both EVM and non-EVM chains.",
+        "selected": true
+      },
+      {
+        "title": "API Access",
+        "description": "Provides a robust API for developers to interact with the CrossChain protocol, enabling easy access to features like token transfers and smart contract messaging.",
+        "selected": true
+      },
+      {
+        "title": "Gas Fee Prediction",
+        "description": "Utilizes AI to predict gas fees for transactions across different chains, helping developers optimize costs and improve user experience.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Identity Management",
+    "submodules": [
+      {
+        "title": "Self Protocol Integration",
+        "description": "Integrates with Self Protocol to provide secure cross-chain identity verification, ensuring that users can authenticate themselves across multiple blockchains without compromising security.",
+        "selected": true
+      },
+      {
+        "title": "On-Chain Identity Solutions",
+        "description": "Facilitates the creation and management of on-chain identities that are recognized across all supported chains, enhancing user trust and security.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Governance & Compliance",
+    "submodules": [
+      {
+        "title": "DAO Governance",
+        "description": "Empowers the community to participate in decision-making processes regarding the listing of new chains and the management of relayers, ensuring a decentralized and democratic approach.",
+        "selected": true
+      },
+      {
+        "title": "Compliance Mechanisms",
+        "description": "Incorporates compliance features to adhere to regulatory standards across different jurisdictions, ensuring that the platform operates within legal frameworks.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Privacy & Security",
+    "submodules": [
+      {
+        "title": "ZK-Proof Integration",
+        "description": "Utilizes zero-knowledge proofs to enable privacy-preserving transfers, allowing users to conduct transactions without revealing sensitive information.",
+        "selected": true
+      },
+      {
+        "title": "Security Audits",
+        "description": "Regularly conducts security audits and assessments to identify vulnerabilities and enhance the overall security posture of the CrossChain protocol.",
+        "selected": true
+      }
+    ]
+  }
+]
